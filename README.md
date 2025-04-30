@@ -29,3 +29,26 @@ Dashboard Visuals & Interactions
 * Handling multiple fact tables and creating a unified model
 * Building powerful DAX calculations including YTD and conditional emojis
 * Utilizing smart narrative for AI-generated summariesCreating visually appealing reports using custom * card visuals, themes, and executive table layouts
+
+<video controls="controls" width="800" height="600" name="Video Name">
+  <source src="https://github.com/dhanushkapg/FinanceKPI/blob/main/Screen-Recording.mov">
+</video>
+<object CLASSID="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" width="320" height="256" CODEBASE="http://www.apple.com/qtactivex/qtplugin.cab">
+    <param name="src" value="sample.mov">
+    <param name="qtsrc" value="https://github.com/dhanushkapg/FinanceKPI/blob/main/Screen-Recording.mov">
+    <param name="autoplay" value="true">
+    <param name="loop" value="false">
+    <param name="controller" value="true">
+    <embed src="sample.mov" qtsrc="rtsp://realmedia.uic.edu/itl/ecampb5/demo_broad.mov" width="320" height="256" autoplay="true" loop="false" controller="true" pluginspage="http://www.apple.com/quicktime/"></embed>
+</object>
+<h2>Finance KPI Dashboard</h2>
+<p align="center">
+
+<img src="https://github.com/dhanushkapg/FinanceKPI/blob/main/1745610481455.jpg"/>
+<br/>
+<br>
+<p align="center">
+
+<img src="https://github.com/dhanushkapg/FinanceKPI/blob/main/1745610508884.jpg"/>
+<br/>
+<br>
